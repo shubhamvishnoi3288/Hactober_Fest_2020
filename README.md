@@ -1,6 +1,7 @@
 # Hactober_Fest_2020
-To earn your Hacktoberfest tee reward, you must register and make four valid pull requests (PRs) between October 1–31 (in any time zone). PRs can be made to any public repository on GitHub.......
 
 
+
+![1rkbnudy8qu7jkpc8z8d](https://user-images.githubusercontent.com/65655892/129394781-6e82e899-6e05-41ad-9f19-6603b6a10477.gif)
 
  shubhamvishnoi3288/Hactober_Fest_2020
