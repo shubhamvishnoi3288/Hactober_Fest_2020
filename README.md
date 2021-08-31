@@ -5,7 +5,7 @@
                                                            shubhamvishnoi3288/Hactober_Fest_2020
 What is open source? 🤔
 The term open source refers to something people can modify and share because its design is publicly accessible.
-
+                      
 What is open source software?
 Open-source software is software with source code that anyone can inspect, modify, and enhance.
 
