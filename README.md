@@ -8,7 +8,7 @@ The term open source refers to something people can modify and share because its
                       
 What is open source software?
 Open-source software is software with source code that anyone can inspect, modify, and enhance.
-
+    
 Benefits of contributing to open source?
 Contributing to open source can be a rewarding way to learn, teach, meet people who are interested in similar things, and build experience in just about any skill you can imagine,
 
