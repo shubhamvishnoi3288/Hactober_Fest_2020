@@ -29,7 +29,7 @@ During the entire month of October 2020, all you have to do is contribute to any
 
  How Can I Contribute?
  First, you need to get yourself registered for Hacktoberfest. Signup at the Hacktoberfest 2020 website below.
-        Link : http://hacktoberfest.digitalocean.com/
+        Link : http://hacktoberfest.digitalocean.com/ 
  After signup, you can log in with your GitHub account
           
       NOTE:
